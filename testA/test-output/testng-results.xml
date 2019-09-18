@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13392" started-at="2019-07-12T12:54:10Z" finished-at="2019-07-12T12:54:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13392" started-at="2019-07-12T12:54:10Z" finished-at="2019-07-12T12:54:23Z">
+      <class name="maventest.NewTest3">
+        <test-method status="PASS" signature="testParameterWithXML(java.lang.String, java.lang.String)[pri:0, instance:maventest.NewTest3@314c508a]" name="testParameterWithXML" duration-ms="13344" started-at="2019-07-12T18:24:10Z" finished-at="2019-07-12T18:24:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Guru99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParameterWithXML -->
+      </class> <!-- maventest.NewTest3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
